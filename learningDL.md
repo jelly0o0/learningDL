@@ -14,7 +14,7 @@ This repo take notes for **Deep Learning**.
 #### 2. PyTorch
 - [PyTorch Handbook](https://github.com/zergtant/pytorch-handbook) is an opensourced Chinese book for DL beginners.
 #### 3. MXNet
-- [Hands-on Deep Learning](https://zh.d2l.ai/) is an Chinese book for DL beginners， with formula, diagram and code.
+- [Hands-on Deep Learning](https://zh.d2l.ai/) is an Chinese book for DL beginners, with formula and diagram and code.
 #### 4. CV
 - Keras implementation of Faster R-CNN. [[link](https://github.com/yhenon/keras-frcnn)]
 - Pytorch implementation of Person re-identification. [[link](https://github.com/layumi/Person_reID_baseline_pytorch)]
