@@ -12,6 +12,7 @@ This repo take notes for **Deep Learning**.
 - [Tensorflow models](https://github.com/tensorflow/models) contains a number of different models implemented in TensorFlow.
 - [Tensorflow examples](https://github.com/aymericdamien/TensorFlow-Examples) designed for easily diving into TensorFlow, through examples.
 #### 2. PyTorch
+- [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial) is sample codes for PyTorch learners.
 - [PyTorch Handbook](https://github.com/zergtant/pytorch-handbook) is an opensourced Chinese book for DL beginners.
 #### 3. MXNet
 - [Hands-on Deep Learning](https://zh.d2l.ai/) is a Chinese book for DL beginners, with formula and diagram and code.
