@@ -1,4 +1,4 @@
-# Deep Learning Notes and Resource
+# Deep Learning Notes and Resources
 This repo take notes for **Deep Learning**.
 ## Deep Learning Books and Papers
 - Goodfellow's [Deep Learning](http://www.deeplearningbook.org/) and [Chinese](https://github.com/exacity/deeplearningbook-chinese) translation edition.
