@@ -31,3 +31,6 @@ This repo take notes for **Deep Learning**.
 #### 6. Tools
 - [imgaug](https://github.com/aleju/imgaug): A python library helps you with augmenting images.
 - [LabelImg](https://github.com/tzutalin/labelImg): A graphical image annotation tool.
+#### 7. Classical Nets
+- [MobileNetV2](https://github.com/xiaochus/MobileNetV2): A Keras implementation of MobileNetV2.
+- [MobileNetV2](https://github.com/Randl/MobileNetV2-pytorch): Impementation of MobileNetV2 in pytorch.
